@@ -1,3 +1,7 @@
+/*
+author: Dorian de Koning
+last changed: 11-12-2015
+*/
 /* Load HTTP required packages */
 var request = require('request');
 var express = require('express');
